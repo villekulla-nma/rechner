@@ -1,0 +1,15 @@
+body {
+  padding: 2em;
+}
+
+.unit-value {
+  margin-bottom: 1em;
+}
+
+.row .left {
+  margin-right: 1em;
+}
+
+.deviance-label {
+  margin-left: 0;
+}

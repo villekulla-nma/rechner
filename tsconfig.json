@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src",
+    "target": "es2020",
+    "lib": ["es2019", "dom"],
+    "module": "es2020",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "checkJs": true,
+    "noEmit": true,
+    "sourceMap": true,
+    "inlineSourceMap": false,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}
